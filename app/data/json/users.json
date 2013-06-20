@@ -1,0 +1,7 @@
+{
+    success:true,
+    data:[{
+        id:1,name:'Rohan',email:'me@rohandalvi.com'},
+        {id:2, name:'Sagar',email:'sad2999@rit.edu'
+    }]
+}
